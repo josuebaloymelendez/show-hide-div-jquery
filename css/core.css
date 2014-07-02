@@ -15,3 +15,15 @@ body {
     background-color: #000;
 
 }
+
+.button i {
+
+    visibility: hidden;
+
+}
+
+.button.open i {
+
+    visibility: visible;
+
+}
