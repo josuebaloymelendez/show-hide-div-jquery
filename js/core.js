@@ -24,7 +24,7 @@ $(function() {
 
                 $(this).removeClass('open');
 
-                $($(this).data('target')).addClass('dn');
+                $(siblingTarget).addClass('dn');
 
             }
 
